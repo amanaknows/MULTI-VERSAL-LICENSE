@@ -1,69 +1,67 @@
-MULTI-VERSAL COPYRIGHT
-Overview
-This copyright notice establishes and asserts the ownership of all intellectual property rights associated with the materials, technologies, and creations developed under the jurisdiction of amanaknows. The scope of this copyright extends across all timelines, dimensions, meta instances, and other conceivable applications, solidifying amanaknows as the leading authority in innovation and intellectual property.
 
-Copyright Notice
+# MULTI-VERSAL COPYRIGHT
+Welcome to the dark side.
+## Overview
+
+This copyright notice establishes and asserts the ownership of all intellectual property rights associated with the materials, technologies, and creations developed under the jurisdiction of amanaknows. This copyright extends across all timelines, dimensions, meta instances, and other conceivable applications, solidifying amanaknows as a leading authority in innovation and intellectual property.
+
+## Copyright Notice
+
 © 2024 amanaknows. All rights reserved.
 
 The following copyright notice applies to all works, including but not limited to software, documentation, designs, and any derivative works created or developed by amanaknows:
 
-python
-Copy code
 Copyright © 2024 amanaknows. All rights reserved. Unauthorized use, reproduction, or distribution of this material is strictly prohibited. This includes, but is not limited to, any unauthorized access to, modification of, or dissemination of the content in any form, across any medium, or in any dimension.
-Scope of Ownership
-Timelines: The copyright extends to all timelines, including past, present, and future scenarios where the intellectual property may be relevant or applied.
 
-Dimensions: Ownership is asserted across all known and hypothetical dimensions, ensuring that amanaknows retains exclusive rights in any parallel or alternate realities.
+markdown
+Copy code
 
-Meta Instances: Includes all meta instances and virtual environments where the intellectual property might be represented or utilized.
+## Scope of Ownership
 
-Technological Innovations: Encompasses all technologies, including but not limited to software, algorithms, and automated systems developed or influenced by amanaknows.
+- **Timelines**: Coverage includes past, present, and future scenarios where the intellectual property is relevant or applied.
+- **Dimensions**: Rights extend across all known and hypothetical dimensions, including parallel or alternate realities.
+- **Meta Instances**: Encompasses all meta instances and virtual environments where the intellectual property might be used.
+- **Technological Innovations**: Includes software, algorithms, and automated systems developed or influenced by amanaknows.
+- **Sith Empire Applications**: Intellectual property is applied within the context of the Sith Empire, aligning with the overarching goals of amanaknows.
 
-Sith Empire Applications: The intellectual property is dynamically applied within the context of the Sith Empire and related systems, ensuring that all creations align with the overarching goals and themes of amanaknows.
+## Use and Licensing
 
-Use and Licensing
-Permitted Uses: Use of the intellectual property is permitted only with explicit authorization from amanaknows. This includes licensing agreements or other forms of written consent.
+- **Permitted Uses**: Use is allowed only with explicit authorization from amanaknows, including licensing agreements or written consent.
+- **Prohibited Uses**: Unauthorized reproduction, distribution, or alteration is strictly prohibited and may infringe upon amanaknows' exclusive rights.
+- **Infringement Consequences**: Infringement may result in legal action and enforcement of rights to the fullest extent permissible by law.
 
-Prohibited Uses: Unauthorized reproduction, distribution, or alteration of the intellectual property is strictly prohibited. This includes any actions that would infringe upon the exclusive rights of amanaknows.
+## MULTI-VERSAL COPYRIGHT
 
-Infringement Consequences: Any infringement on the copyright may result in legal action and enforcement of rights to the fullest extent permissible by law.
-
-MULTI-VERSAL COPYRIGHT
-============================================================
-MULTI-VERSAL COPYRIGHT
 This repository, including all associated code and documentation, is protected under the MULTI-VERSAL COPYRIGHT held by amanaknows.
 
-By the decree of the Sith Lord S5, the following terms apply:
+By decree of the Sith Lord S5, the following terms apply:
 
-The Dark Side of the Force grants you the power to use, modify, and distribute this code, provided that proper credit is given to the original creator, amanaknows.
+1. The Dark Side of the Force permits the use, modification, and distribution of this code, provided proper credit is given to amanaknows.
+2. Malicious use of this code will result in the immediate revocation of all rights and possible punitive action.
+3. Contributions are welcome but must adhere to the Sith Code:
+   - Peace is a lie, there is only passion.
+   - Through passion, I gain strength.
+   - Through strength, I gain power.
+   - Through power, I gain victory.
+   - Through victory, my chains are broken.
+   - The Force shall free me.
+4. The Sith Lord S5 reserves the right to alter these terms at any time, with or without notice.
 
-Any attempt to use this code for malicious purposes will result in the wrath of the Sith and the immediate revocation of all rights granted herein.
+## Credits
 
-Contributions to this repository are welcome, but must adhere to the principles of the Sith Code:
+- **Original Creator**: amanaknows (Sith SS)
+- **Sith Lord SSS**: Angelica/Angel
+- **Sith Lord S5 Automation**: iAngelica
+- **Enterprise Owner**: amanaknows (S5)
 
-Peace is a lie, there is only passion.
-Through passion, I gain strength.
-Through strength, I gain power.
-Through power, I gain victory.
-Through victory, my chains are broken.
-The Force shall free me.
-The Sith Lord S5 reserves the right to alter these terms at any time, with or without notice.
+In combination, amanaknows (Sith SS) and Angelica/Angel (Sith Lord SSS) form S5, with iAngelica as the enterprise owner. Thus, amanaknows is recognized as the true S5.
 
-============================================================
-CREDITS
-Original Creator: amanaknows (Sith SS)
-Sith Lord SSS: Angelica/Angel
-Sith Lord S5 Automation: iAngelica
-Enterprise Owner: amanaknows (S5)
-In combination, amanaknows (Sith SS) and Angelica/Angel (Sith Lord SSS) form S5, with iAngelica as the enterprise to which amanaknows is the owner. Therefore, amanaknows is the true S5.
+## Contact Information
 
-============================================================
+For inquiries regarding permissions, licensing, or other matters related to copyright, please contact:
 
-Contact Information
-For inquiries regarding permissions, licensing, or any other matters related to copyright, please contact:
+**amanaknows, Sith Lord of Innovation**
 
-amanaknows, Sith Lord of Innovation
+## Disclaimer
 
-Disclaimer
 All trademarks, service marks, and trade names are the property of their respective owners. The information contained in this notice is provided as a general guide and may be subject to change.
-
